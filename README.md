@@ -113,7 +113,7 @@ This was visualized using both a bar chart and a pie chart to provide complement
 
 - The pie chart highlights each region’s proportional contribution to the total sales, offering a quick glance at regional distribution.
   
-![Amount of Sales per Region - Bar](docs/amount_of_sales(kes)_per_region.png)
+![Amount of Sales per Region - Bar](docs/amount_of_sales_per_region.png)
 ![Share of Sales per Region - Pie](docs/share_of_sales_per_region.png)
 
 
@@ -616,7 +616,7 @@ Weighted Score = 0.4 * Norm. Amount + 0.3 * Norm. Units + 0.3 * Norm. Visits
 Weights can be adjusted based on your business focus but in this case, revenue was slightly prioritized
 
 > 🧾 **Note:** Table below is a trimmed version for visual purposes.  
-> 📄 [View Full Client Scores Table ➜](https://flatgithub.com/kiptoo-sang/sales-performance-gsheets-automation/blob/main/docs/client_scores_full.csv)
+> 📄 [View Full Client Scores Table ➜](https://flatgithub.com/itskiptoo05/sales-performance-gsheets-automation/blob/main/docs/client_ranking_weighted_table.png)
 
 | Client                 | Purchases (KES) | Units | Visits | Weighted Score |
 | ---------------------- | --------------: | ----: | -----: | -------------- |
@@ -630,7 +630,7 @@ Weights can be adjusted based on your business focus but in this case, revenue w
 | **Espinoza Group**     |      282,164.00 |    35 |      6 | **0.000**      |
 
 
-![Client Weighted Scores]()
+![Client Weighted Scores](docs/client_ranking_weighted_metrics.png)
 
 #### 🧠 Insight
 > Hutchinson Group leads with a perfect score of 1, topping all three individual metrics. Others like Martin-Bell, Luna Ltd, and Solomon Inc also consistently rank high across revenue, volume, and engagement — identifying them as prime candidates for loyalty programs, tailored offers, or early access to new product lines.
