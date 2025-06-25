@@ -394,11 +394,11 @@ Each line represents a product category, showing sales trends from October to De
 #### 🧠 Insight
 > The data reveals several trends:
 >
-> - Printers and Webcams peak in November, possibly due to promotional activity or seasonal demand.
+> - **Printers** and **Webcams** peak in November, possibly due to promotional activity or seasonal demand.
 >
-> - Laptops see a strong October but dip in November and somehow stabilize in December — suggesting front-loaded Q4 demand. Since Laptops are our high revenue generating products, this dip explains why there was an dip in overall sales.
+> - **Laptops** see a strong October but dip in November and somehow stabilize in December — suggesting front-loaded Q4 demand. Since Laptops are our high revenue generating products, this dip explains why there was a drop in overall sales in November and December.
 >
-> - External HDDs and Monitors steadily increase, showing potential growing demand.
+> - **External HDDs** and **Monitors** steadily increase, showing potential growing demand.
 
   ---
 
@@ -426,7 +426,7 @@ A **bar chart** and **donut chart** were used to show both absolute revenue and 
 ![Laptop Sales by Region – Donut](docs/laptop_revenue_share_by_region.png)
 
 #### 🧠 Insight
-> Nairobi leads in laptop revenue, accounting for over 25% of total category sales. Mombasa and Eldoret follow closely, indicating strong secondary markets. Combined, the top 3 regions contribute over 60% of all laptop sales, suggesting these should be priority targets for premium stock allocation, tech product promotions, or sales incentives.
+> **Nairobi** leads in laptop revenue, accounting for over 25% of total category sales. **Mombasa** and **Eldoret** follow closely, indicating strong secondary markets. Combined, the top 3 regions contribute over 60% of all laptop sales, suggesting these should be priority targets for premium stock allocation, tech product promotions, or sales incentives.
 > 
 > Conversely, regions like Thika and Machakos, though lower in revenue, may present growth opportunities if targeted campaigns are introduced.
 
@@ -462,7 +462,7 @@ Two charts were used to illustrate this:
 ![Laptop Revenue Share by Sales Rep – Donut](docs/laptop_revenue_contribution_per_sales_rep.png)
 
 #### 🧠 Insight
-> Sherry Chen and Mark Howell lead the laptop category, contributing over 32% of total laptop revenue combined. Gregory Jones and James Turner also show strong performance. Reps with lower contribution (e.g., Nathan West) may benefit from training or cross-selling strategies to improve sales in this key category.
+> **Sherry Chen** and **Mark Howell** lead the laptop category, contributing over 32% of total laptop revenue combined. **Gregory Jones** and **James Turner** also show strong performance. Reps with lower contribution (e.g., **Nathan West**) may benefit from training or cross-selling strategies to improve sales in this key category.
 > With these insights we can form bonus structures, sales recognition, and training plans aligned specifically with high-value product lines.
 
 ---
@@ -592,7 +592,7 @@ This was best visualized using a **bar chart** to compare unit volume across the
 ![Top Clients by Units Purchased – Bar](docs/top_20_clients_by_units_purchased.png)
 
 #### 🧠 Insight
-> Hutchinson Group not only tops revenue and visits but also leads in volume — making them your most valuable client across multiple dimensions. Others like Bradford Inc and Stein-Eaton show strong volume presence despite not topping the revenue chart, hinting at price-sensitive or bulk purchasing behavior.
+> **Hutchinson Group** not only tops revenue and visits but also leads in volume — making them your most valuable client across multiple dimensions. Others like **Bradford Inc** and **Stein-Eaton** show strong volume presence despite not topping the revenue chart, hinting at price-sensitive or bulk purchasing behavior.
 >
 >This data supports logistics planning, volume discount negotiations, and helps identify clients for wholesale strategies or product upsell opportunities.
 
@@ -616,7 +616,7 @@ Weighted Score = 0.4 * Norm. Amount + 0.3 * Norm. Units + 0.3 * Norm. Visits
 Weights can be adjusted based on your business focus but in this case, revenue was slightly prioritized
 
 > 🧾 **Note:** Table below is a trimmed version for visual purposes.  
-> 📄 [View Full Client Scores Table ➜](https://flatgithub.com/itskiptoo05/sales-performance-gsheets-automation/blob/main/docs/client_ranking_weighted_table.png)
+> 📄 > *For full table, see:* [`helper_table.png`](docs/client_ranking_weighted_table.png)
 
 | Client                 | Purchases (KES) | Units | Visits | Weighted Score |
 | ---------------------- | --------------: | ----: | -----: | -------------- |
@@ -633,7 +633,7 @@ Weights can be adjusted based on your business focus but in this case, revenue w
 ![Client Weighted Scores](docs/client_ranking_weighted_metrics.png)
 
 #### 🧠 Insight
-> Hutchinson Group leads with a perfect score of 1, topping all three individual metrics. Others like Martin-Bell, Luna Ltd, and Solomon Inc also consistently rank high across revenue, volume, and engagement — identifying them as prime candidates for loyalty programs, tailored offers, or early access to new product lines.
+> **Hutchinson Group** leads with a perfect score of 1, topping all three individual metrics. Others like **Martin-Bell**, **Luna Ltd**, and **Solomon Inc** also consistently rank high across revenue, volume, and engagement — identifying them as prime candidates for loyalty programs, tailored offers, or early access to new product lines.
 
 
 ### 🧮 Client Segmentation Helper Table
@@ -667,7 +667,7 @@ This donut chart provides a high-level summary of how clients are distributed ac
 ![Customer Segment Distribution - Donut](docs/client_distribution_across_segments.png)
 
 #### 🧠 Insight
-> Most clients fall under Loyal Customers and Growth Opportunities, suggesting a strong middle-tier base that could be nurtured into VIPs. However, the Low Engagement group (4 clients) represents churn risk and should be flagged for re-engagement.
+> Most clients fall under **Loyal Customers** and **Growth Opportunities**, suggesting a strong middle-tier base that could be nurtured into VIPs. However, the Low Engagement group (4 clients) represents churn risk and should be flagged for re-engagement.
 
 ### 📊 Visualization 18: Top 20 Revenue-Generating Product Models
 This visualization showcases the top 20 individual product models that contributed the highest revenue across all transactions. It's helpful for identifying top performers that should be prioritized in procurement, promotion, and stock planning.
@@ -689,7 +689,7 @@ This visualization showcases the top 20 individual product models that contribut
 ![Top 20 Revenue-Generating Models - Bar Chart](docs/top_20_revenue_generating_models.png)
 
 #### 🧠 Insight
-> The Dell Inspiron leads with over 15% of total revenue, followed closely by HP Pavilion and Lenovo Ideapad. This concentration of revenue within a few models suggests that a focused strategy around these products can significantly impact overall sales performance.
+> The **Dell Inspiron** leads with over 15% of total revenue, followed closely by **HP Pavilion** and **Lenovo Ideapad**. This concentration of revenue within a few models suggests that a focused strategy around these products can significantly impact overall sales performance.
 > 
 >While this dominance presents an opportunity to maximize returns through focused marketing and inventory strategies, it also introduces risk — overdependence on a single model could impact revenue stability if availability or market preference shifts unexpectedly.
 
