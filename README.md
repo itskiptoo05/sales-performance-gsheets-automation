@@ -57,6 +57,14 @@ It aims to automate performance tracking in areas such as:
 
 ---
 
+## 📁 Dataset & Source
+
+All data used in this project — from summary stats to visualizations — is housed and processed in a Google Sheets document.
+
+🔗 **Access the full dataset here:** [Sales Performance Google Sheet](https://docs.google.com/spreadsheets/d/19Nml2pylfGMtO0ZWc3PX2oXuAWBPfUmlk8J4dmDExkQ/edit?usp=sharing)
+
+---
+
 ### 🔧 Apps Script: categorizePerformance()
 
 Located in: `src/categorizePerformance.gs`  
